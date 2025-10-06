@@ -1,0 +1,30 @@
+[
+  {
+    "nombre": "Rosa",
+    "familia": "Rosaceae",
+    "luzNecesaria": "Alta",
+    "riego": 9,
+    "ubicacion": "exterior"
+  },
+  {
+    "nombre": "Tulipan",
+    "familia": "Liliaceae",
+    "luzNecesaria": "Alta",
+    "riego": 7,
+    "ubicacion": "exterior"
+  },
+  {
+    "nombre": "Petunia",
+    "familia": "Petunieae",
+    "luzNecesaria": "Alta",
+    "riego": 5,
+    "ubicacion": "maceta"
+  },
+  {
+    "nombre": "b",
+    "familia": "a",
+    "luzNecesaria": "a",
+    "riego": 3,
+    "ubicacion": "a"
+  }
+]

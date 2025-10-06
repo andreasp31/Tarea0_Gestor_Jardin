@@ -1,0 +1,3 @@
+Rosa,Rosaceae,Alta,10,exterior
+Tulipan,Liliaceae,Alta,7,exterior
+Petunia,B,Baja,2,Maceta
